@@ -1,4 +1,4 @@
 viewpager-test
 ==============
 
-test viewpager and fragment.
+Test Viewpager and Fragment.
